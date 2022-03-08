@@ -26,6 +26,8 @@ weird final boss thing that i have a sketch of in my bag
 
 trap stuff: 
    *sandworm/worm-like thing that acts as a moving wall basically, simple hazard
+   
+   *floating explosive barrel/mines
 
    crumbling planet that player has to move through (will probably just tie this
 	into ice planet, moving througha tunnel, shoot point, blow up that portion of level,
