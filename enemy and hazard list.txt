@@ -1,0 +1,34 @@
+*this signifies its probably not needed and would just be a cool extra thing we could do
+ if we feel that the game is too basic with just these enemies
+
+by ryan who is doing level design
+
+
+
+normal turret
+
+explosive turret (normal but slower, less accurate and covers area of effect)
+
+access point (not an enemy, just a thing to shoot to break down planet/blow up)
+
+anglerfish chase
+
+mothership (strollin round hub, undamageable)
+
+ - > spawned miniships (fly around like player but slower, 
+	probably same/slightly faster fire rate, 2 or 3 at a time)
+
+weird final boss thing that i have a sketch of in my bag
+	(has normal turret shot, explosive turret shot, *row/column shot,
+	 rotating energy shields)
+
+
+
+trap stuff: 
+   *sandworm/worm-like thing that acts as a moving wall basically, simple hazard
+
+   crumbling planet that player has to move through (will probably just tie this
+	into ice planet, moving througha tunnel, shoot point, blow up that portion of level,
+	move thru to next)
+
+   sandfall area or something that slows down player movement and intensifies gravity
